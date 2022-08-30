@@ -169,8 +169,37 @@ h3 {
   justify-content: center;
 }
 
-footer {
+/* footer {
   display: flex;
   justify-content: end;
   align-items: center;
+} */
+
+h4 {
+  font-size: 40px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+}
+
+header * {
+  color: red;
+}
+
+header nav a {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 110px;
+  margin-top: 253px;
 }
