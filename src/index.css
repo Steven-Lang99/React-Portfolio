@@ -31,6 +31,8 @@ html {
 img {
   max-width: 150%;
   border: 15px solid red;
+  margin: 25px;
+
 }
 
 code {
@@ -192,14 +194,24 @@ header * {
 
 header nav a {
   margin-left: 10px;
+  text-decoration: none;
   font-size: 20px;
+}
+
+header nav a.active {
+  text-decoration: underline
+}
+
+footer {
+  position: absolute;
+  bottom: -150px;
+  width: 100%;
+  background-color: black;
+  height: 105px;
 }
 
 #footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
-  height: 110px;
-  margin-top: 253px;
 }

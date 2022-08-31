@@ -11,7 +11,10 @@ function AboutMe() {
                 </div>
                 <div>
                     <div className='paragraph row'>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam eius corrupti illum error quam ab saepe atque harum qui blanditiis inventore soluta minima, aut, deleniti obcaecati doloremque optio reiciendis voluptate?</p>
+                        <p>Hello, I am Steven Langlois. I am orginally from Wisconsin but after graduating from the University
+                            of Wisconsin-Stout I moved to Minnesota for better carreer opportunities. I am currently employed
+                            with Wells Fargo at the moment
+                            but I am hoping with the expereince working in a coding bootcamp to further my career.</p>
                     </div>
                 </div>
             </div>
