@@ -29,7 +29,7 @@ Please click on the license to read more.
 ## Usage
 Please follow the screenshot for the usage of the application:
 
-![Screenshot](/client/src/images/React-Portfolio.png)
+![Screenshot](./src/images/React-Portfolio.png)
 
 ## Credits
 List of collaborators on the application:
